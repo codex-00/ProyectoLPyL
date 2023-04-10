@@ -1,0 +1,66 @@
+[
+    {
+        "legajo": 123,
+        "nombre": "Juan",
+        "carrera": "APU",
+        "concursado": true,
+        "materias": [
+            {
+                "codigo": 657,
+                "descripcion":"LPyL"
+            },
+            {
+                "codigo": 324,
+                "descripcion":"Matemática"
+            }
+        ]
+    },
+    {
+        "legajo": 259,
+        "nombre": "Marina",
+        "carrera": "APU",
+        "concursado": true,
+        "materias": [
+            {
+                "codigo": 128,
+                "descripcion":"Trabajo de Campo"
+            },
+            {
+                "codigo": 455,
+                "descripcion":"Introducción a la programacion"
+            }
+        ]
+    },
+    {
+        "legajo": 1500,
+        "nombre": "Sabrina",
+        "carrera": "Educación Físca",
+        "concursado": false,
+        "materias": [
+            {
+                "codigo": 555,
+                "descripcion":"Deportes 1"
+            }
+        ]
+    },
+    {
+        "legajo": 1380,
+        "nombre": "Ramon",
+        "carrera": "Enfermeria",
+        "concursado": true,
+        "materias": [
+            {
+                "codigo": 399,
+                "descripcion":"Anatomía I"
+            },
+            {
+                "codigo": 400,
+                "descripcion":"Anatomía II"
+            },
+            {
+                "codigo": 99,
+                "descripcion":"RPC"
+            }                      
+        ]
+    }           
+]
