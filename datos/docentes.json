@@ -6,12 +6,12 @@
         "concursado": true,
         "materias": [
             {
-                "codigo": 657,
-                "descripcion":"LPyL"
+                "código": 657,
+                "descripción":"LPyL"
             },
             {
-                "codigo": 324,
-                "descripcion":"Matemática"
+                "código": 324,
+                "descripción":"Matemática"
             }
         ]
     },
@@ -22,44 +22,44 @@
         "concursado": true,
         "materias": [
             {
-                "codigo": 128,
-                "descripcion":"Trabajo de Campo"
+                "código": 128,
+                "descripción":"Trabajo de Campo"
             },
             {
-                "codigo": 455,
-                "descripcion":"Introducción a la programacion"
+                "código": 455,
+                "descripción":"Introducción a la Programación"
             }
         ]
     },
     {
         "legajo": 1500,
         "nombre": "Sabrina",
-        "carrera": "Educación Físca",
+        "carrera": "Educación Física",
         "concursado": false,
         "materias": [
             {
-                "codigo": 555,
-                "descripcion":"Deportes 1"
+                "código": 555,
+                "descripción":"Deportes 1"
             }
         ]
     },
     {
         "legajo": 1380,
-        "nombre": "Ramon",
+        "nombre": "Ramón",
         "carrera": "Enfermeria",
         "concursado": true,
         "materias": [
             {
-                "codigo": 399,
-                "descripcion":"Anatomía I"
+                "código": 399,
+                "descripción":"Anatomía I"
             },
             {
-                "codigo": 400,
-                "descripcion":"Anatomía II"
+                "código": 400,
+                "descripción":"Anatomía II"
             },
             {
-                "codigo": 99,
-                "descripcion":"RPC"
+                "código": 99,
+                "descripción":"RPC"
             }                      
         ]
     }           
